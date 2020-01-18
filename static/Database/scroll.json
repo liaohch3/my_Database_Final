@@ -1,0 +1,26 @@
+{
+      "data": [
+            {"id": 0, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934e6jjmj3046046dgg.jpg", "name": "四川"},
+            {"id": 1, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934e4h12j304603xt8p.jpg", "name": "同曦"},
+            {"id": 2, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934e5pp6j3046046mx7.jpg", "name": "北控"},
+            {"id": 3, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934e5hzjj3046046jrf.jpg", "name": "八一"},
+            {"id": 4, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934e6b3mj3046046t8t.jpg", "name": "吉林"},
+            {"id": 5, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934e6dhyj304604674a.jpg", "name": "浙江"},
+            {"id": 6, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934eawabj3046046gln.jpg", "name": "江苏"},
+            {"id": 7, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934ec0gbj3046046wej.jpg", "name": "山东"},
+            {"id": 8, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934ecin9j3046046jrd.jpg", "name": "广东"},
+            {"id": 9, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934ecwnbj304603xjrc.jpg", "name": "新疆"},
+            {"id": 10, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934ecz6yj3046046t8s.jpg", "name": "上海"},
+            {"id": 11, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934edz9dj3046046mx6.jpg", "name": "广州"},
+            {"id": 12, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934egbz9j30460463yg.jpg", "name": "辽宁"},
+            {"id": 13, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934eizpij3046046mx3.jpg", "name": "北京"},
+            {"id": 14, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1gag04s3re8j3046046wej.jpg", "name": "福建"},
+            {"id": 15, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934ei8l2j3046046mx4.jpg", "name": "深圳"},
+            {"id": 16, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934eil8fj3046046wek.jpg", "name": "山西"},
+            {"id": 17, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1gag04s6xgfj30460460st.jpg", "name": "广厦"},
+            {"id": 18, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934elf3ej304603xdfv.jpg", "name": "天津"},
+            {"id": 19, "url": "https://ws1.sinaimg.cn/large/007RvR0Hgy1ga934esikgj3046046dft.jpg", "name": "青岛"}
+      ],
+      "msg": "OK",
+      "status": 200
+}

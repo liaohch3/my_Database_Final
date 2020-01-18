@@ -1,0 +1,107 @@
+{
+	"pages": [ 
+        {
+        	"path": "pages/index/index",
+        	"style": {
+        		"app-plus":{
+        			"titleNView": false
+        		},
+        		"usingComponents": {
+        			"van-card": "/wxcomponents/vant-weapp/card/index"
+        		}
+        	}
+        },
+        {
+            "path" : "pages/rank/rank",
+            "style" : {}
+        },
+		{
+            "path" : "pages/wkiwi-user/wkiwi-user",
+            "style" : {}
+        } ,
+		{
+            "path" : "pages/match/match",
+            "style" : {
+        		"usingComponents": {
+        			"van-button": "/wxcomponents/vant-weapp/button/index"
+        		}
+			}
+        },{
+            "path" : "pages/info/info",
+            "style" : {
+				"usingComponents": {
+					"van-cell": "/wxcomponents/vant-weapp/cell/index",
+					"van-cell-group": "/wxcomponents/vant-weapp/cell-group/index",
+					"van-button": "/wxcomponents/vant-weapp/button/index",
+					"van-field": "/wxcomponents/vant-weapp/field/index",
+					"van-switch": "/wxcomponents/vant-weapp/switch/index",
+					"van-picker": "/wxcomponents/vant-weapp/picker/index",
+					"van-popup": "/wxcomponents/vant-weapp/popup/index"
+				}}
+        },
+		{
+		    "path" : "pages/me/me",
+		    "style" : {
+				"usingComponents": {
+					"van-cell": "/wxcomponents/vant-weapp/cell/index",
+					"van-cell-group": "/wxcomponents/vant-weapp/cell-group/index",
+					"van-button": "/wxcomponents/vant-weapp/button/index",
+					"van-field": "/wxcomponents/vant-weapp/field/index",
+					"van-switch": "/wxcomponents/vant-weapp/switch/index",
+					"van-picker": "/wxcomponents/vant-weapp/picker/index",
+					"van-popup": "/wxcomponents/vant-weapp/popup/index"
+				}
+			}
+		},
+		{ 
+		    "path" : "pages/search/search",
+		    "style" : {
+				"usingComponents": {
+					"van-button": "/wxcomponents/vant-weapp/button/index"
+				}
+			}
+		}
+		,{
+            "path" : "pages/login/login",
+            "style" : {}
+        }
+        
+        ,{
+            "path" : "pages/skin-change/skin-change",
+            "style" : {} 
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "头头难",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color": "#bfbfbf",
+		"selectedColor": "#515151",
+		"borderStyle": "black",
+		"backgroundColor":"#ffffff",
+		"list": [ 
+			{
+				"pagePath":"pages/index/index",
+				"text":"首页",
+				"iconPath":"static/tarBarIcon/home.png",
+				"selectedIconPath":"static/tarBarIcon/home_select.png"
+			},
+			{
+				"pagePath":"pages/match/match",
+				"text":"安排",
+				"iconPath":"static/tarBarIcon/search.png",
+				"selectedIconPath":"static/tarBarIcon/search_select.png"
+			},
+			{
+				"pagePath":"pages/wkiwi-user/wkiwi-user",
+				"text":"个人",
+				"iconPath":"static/tarBarIcon/me.png",
+				"selectedIconPath":"static/tarBarIcon/me_select.png"
+			}
+		]
+		
+	}
+}
